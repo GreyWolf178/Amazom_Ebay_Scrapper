@@ -1,0 +1,14 @@
+Firstly install all libraries by command 
+---->pip install -r required_libraries.txt
+
+Then run any file by command
+---->python file_name.py
+
+
+Note please open cmd in your project folder!
+
+Thanks
+Regards
+Muhammad Hussnain
+hussnain178.hk@gmail.com
++923124784608
